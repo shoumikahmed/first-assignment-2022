@@ -1,0 +1,84 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.align{
+    margin: 60px;
+}
+.header{
+    text-align: center;
+}
+.header-color{
+    color: purple;
+}
+.p2{
+    padding-top: 20px;
+}
+.name{
+    color: purple;
+}
+.image{
+    margin-top: -40px;
+}
+.image2{
+    padding-left: 110px;
+}
+.image-size{
+    size: 20px;
+}
+.margin{
+    margin-left: -50px;
+    text-align: left;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(purple,rgb(199, 66, 199));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.flexible-content{
+    display: flex;
+    margin-bottom: 150px;
+}
+.border-left{
+    border-image: linear-gradient(purple,rgb(243, 152, 142));
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+#bg-color{
+    background-color: rgb(250, 231, 250);
+    border-radius: 5%;
+}
+#bg-color2{
+    background-color: rgb(221, 204, 221);
+    border-radius: 5%
+}
+#bg-color3{
+    background-color: rgb(250, 219, 250);
+    border-radius: 5%
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+footer h2{
+    color: white;
+    height: 80px;
+    padding-top: 30px;
+}
+footer p{
+    color: white;
+    padding-bottom: 40px;
+}
