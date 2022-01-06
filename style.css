@@ -49,8 +49,11 @@ h1{
     width: 80%;
 }
 .flexible-content{
-    display: flex;
+    display: inline-flex;
     margin-bottom: 150px;
+}
+.flexible-content > div{
+    margin: 20px;
 }
 .border-left{
     border-image: linear-gradient(purple,rgb(243, 152, 142));
